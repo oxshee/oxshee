@@ -20,12 +20,11 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=oxshee&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oxshee&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxshee&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oxshee&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 ---
 
 ### 📈 Activity
@@ -36,10 +35,10 @@
 
 ---
 
-### 🏙 3D Contribution Skyline
+### 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=oxshee&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oxshee&theme=tokyo-night"/>
 </p>
 
 ---
