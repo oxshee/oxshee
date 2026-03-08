@@ -8,23 +8,15 @@
 
 ---
 
-### ⚡ Tech
+<p align="center"><sub><b>TECH</b></sub></p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,github,vscode"/>
 </p>
 
 ---
 
-### 📈 Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oxshee&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-### 🐍 Contributions
+<p align="center"><sub><b>CONTRIBUTIONS</b></sub></p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/oxshee/oxshee/output/snake.svg"/>
