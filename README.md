@@ -16,17 +16,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oxshee&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oxshee&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
----
-
 ### 📈 Activity
 
 <p align="center">
@@ -35,10 +24,10 @@
 
 ---
 
-### 📊 Contribution Graph
+### 🐍 Contributions
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oxshee&theme=tokyo-night"/>
+<img src="https://raw.githubusercontent.com/oxshee/oxshee/output/snake.svg"/>
 </p>
 
 ---
